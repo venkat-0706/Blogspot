@@ -8,7 +8,7 @@ Welcome to my collection of blogs! Here, I share insights on various topics, fro
 - [What is Data Science?](https://venkat0706.blogspot.com/2025/01/what-is-data-science.html)  
   Explore the world of data science, its key components, and applications in various industries.
 
-- [Data Science Career Guide](https://your-blogspot-url.com/data-science-career-guide)  
+- [Tools in Data Science](https://venkat0706.blogspot.com/2025/01/essential-tools-in-data-science.html)  
   A comprehensive guide for aspiring data scientists, including skills needed, job roles, and career progression.
 
 - [Machine Learning 101](https://your-blogspot-url.com/machine-learning-101)  
